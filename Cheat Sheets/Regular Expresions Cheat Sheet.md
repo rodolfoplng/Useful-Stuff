@@ -1,6 +1,6 @@
 # Regular Expressions Cheat Sheet (Regex)
 
-A compact and **practical** guide to regular expressions with examples you can copy‑paste. Examples are shown in generic regex plus quick usage in **Python**.  
+A compact and **practical** guide to regular expressions with examples you can copy‑paste. Examples are shown in generic regex followed by quick usage example in **Python**.  
   
 
 ---  
